@@ -28,5 +28,5 @@ mongoose.connect(mongoUri, {
 app.use(apiRoutes);
 
 app.listen(PORT, () => {
-  console.log(`On behalf of the staff of the Independent ${PORT} Motel, I wish you all sweet dreams.`);
+  console.log(`Logged on to server in PORT ${PORT}`);
 });
