@@ -20,7 +20,7 @@
   ## Description
   ❓  A budget tracker application where the user will be able to add expenses and deposits to their budget with or without a connection. 
 
-  ![Display](./src/example.jpg)
+  ![Display](/src/demo.PNG)
 
 
   ## Table of Contents
@@ -49,7 +49,7 @@
   > https://github.com/KashCodes/Social-Network-API
   
   ## Heroku Live Site Link: 
-  > https://github.com/KashCodes/Social-Network-API
+  > https://kashcode-budget-tracker.herokuapp.com/
 
   ## License
   ![badge](https://img.shields.io/badge/license-MIT-success)
