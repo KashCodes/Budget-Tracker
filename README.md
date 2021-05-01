@@ -46,7 +46,7 @@
    Then click on the Heroku Badge in this README.md to access the application.
 
   ## GitHub Repository Link: 
-  > https://github.com/KashCodes/Social-Network-API
+  > https://github.com/KashCodes/Budget-Tracker
   
   ## Heroku Live Site Link: 
   > https://kashcode-budget-tracker.herokuapp.com/
